@@ -78,7 +78,7 @@ img {
 
 .hidden {
     font-size: 0px;
-    visibility: hidden;
+    display: none;
 }
 
 /*--------------------------header-----------------------------------*/
